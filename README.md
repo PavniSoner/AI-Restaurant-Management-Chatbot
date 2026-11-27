@@ -57,8 +57,6 @@ The project uses three Google Sheets:
 
 Screenshots of the workflow and chatbot interactions will be added here.
 
-## 📷 Screenshots
-
 ### 1. Workflow Architecture
 
 ![Workflow Overview](./workflow-overview.png)
