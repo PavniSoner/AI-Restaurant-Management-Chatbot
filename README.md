@@ -57,6 +57,21 @@ The project uses three Google Sheets:
 
 Screenshots of the workflow and chatbot interactions will be added here.
 
+## 📷 Screenshots
+
+### 1. Workflow Architecture
+
+![Workflow Overview](./workflow-overview.png)
+
+### 2. WhatsApp Chatbot Demo
+
+![WhatsApp Chat Demo](./whatsapp-chat-demo.png.jpeg)
+
+### 3. Google Sheets – Order Management
+
+![Google Sheets Orders](./google-sheets-orders.png)
+
+
 ## 👩‍💻 Author
 
 Pavni Soner
